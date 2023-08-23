@@ -18,6 +18,8 @@ import com.example.gittest.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+    // add comment 1.1
+
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
 
